@@ -1,0 +1,8 @@
+PySide6
+pandas
+numpy
+scikit-learn
+lazypredict
+matplotlib
+librosa
+sounddevice
